@@ -9,7 +9,7 @@ sections:
     content:
       title:
       subtitle:
-      text: **Hello** world!
+      text: '**Hello** world!'
     design:
       columns: '1'
 ---
