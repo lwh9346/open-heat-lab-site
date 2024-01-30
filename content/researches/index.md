@@ -5,9 +5,9 @@ date: 2024-1-30
 type: landing
 
 sections:
-  - block: Research1
+  - block: markdown
     content:
-      title:
+      title: Research1
       subtitle:
       text: '**Hello** world!'
     design:
