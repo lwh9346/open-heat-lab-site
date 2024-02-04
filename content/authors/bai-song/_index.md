@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bai Song 宋柏
+title: Bai Song
 
 # Full name (for SEO)
 first_name: Bai
@@ -14,21 +14,21 @@ authors:
 superuser: true
 
 # Role/position
-role: 研究员
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: 北京大学
+  - name: Peking University
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Short bio (displayed in user profile at end of posts)'
+bio: Song Bai, graduated from Tsinghua University and is currently a Distinguished Research Fellow at the Department of Energy and Resource Engineering, College of Engineering, Peking University
 
-education:
-  courses:
-    - course: 学士
-      institution: 清华大学
-      year: 2024
+#education:
+#  courses:
+#    - course: 学士
+#      institution: 清华大学
+#      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,6 +56,4 @@ user_groups:
   - Researchers
 ---
 
-
-
-这里是个人描述部分
+Song Bai, graduated from Tsinghua University and is currently a Distinguished Research Fellow at the Department of Energy and Resource Engineering, College of Engineering, Peking University

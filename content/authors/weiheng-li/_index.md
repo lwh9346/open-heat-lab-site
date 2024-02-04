@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Weiheng Li 李炜恒
+title: Weiheng Li
 
 # Full name (for SEO)
 first_name: Weiheng
@@ -14,20 +14,20 @@ authors:
 superuser: true
 
 # Role/position
-role: 学生
+role: Student
 
 # Organizations/Affiliations
 organizations:
-  - name: 北京大学
+  - name: Peking University
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 不知道说些什么好。
+bio: Getting started.
 
 education:
   courses:
-    - course: 理论与应用力学 学士
-      institution: 北京大学
+    - course: BS in Theoretical and Applied Mechanics
+      institution: Peking University
       year: 2024
 
 # Social/Academic Networking
@@ -56,4 +56,4 @@ user_groups:
   - Students
 ---
 
-李炜恒是一个刚进实验室的学生。
+Getting started.

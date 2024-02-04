@@ -10,15 +10,15 @@ main:
   - name: People
     url: people
     weight: 20
+  - name: Research
+    url: research
+    weight: 30
   - name: Publications
     url: publication
-    weight: 30
-  - name: Gallery
-    url: gallery
     weight: 40
-  - name: Researches
-    url: researches
+  - name: Education
+    url: education
     weight: 50
-  - name: Contact
-    url: contact
+  - name: 中文简介
+    url: zh
     weight: 60

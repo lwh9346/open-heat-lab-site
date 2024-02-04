@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Gallery
+title: Education
 date: 2024-1-30
 type: landing
 

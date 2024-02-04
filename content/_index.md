@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 开放热学实验室-中文简介
 date: 2022-10-24
 type: landing
 
@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Open Heat Lab
+        开放热学实验室
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        This is describtion.
+        描述
   
   - block: collection
     content:
@@ -40,7 +40,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="团队成员" %}}
     design:
       columns: '1'
 ---
