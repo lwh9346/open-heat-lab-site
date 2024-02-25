@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Bai Song
+title: Wenjiang Zhou
 
 # Full name (for SEO)
-first_name: Bai
-last_name: Song
+first_name: Wenjiang
+last_name: Zhou
 
 # Username (this should match the folder name)
 authors:
-  - bai-song
+  - wenjiang-zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PI
+role: Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,16 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Song Bai, graduated from Tsinghua University and is currently a Distinguished Research Fellow at the Department of Energy and Resource Engineering, College of Engineering, Peking University
+bio: My research interest focuses on electron and phonon transport in novel materials.
 
-#education:
-#  courses:
-#    - course: 学士
-#      institution: 清华大学
-#      year: 2024
+education:
+  courses:
+    - course: BS
+      institution: Huazhong University of Science and Technology
+      year: 2019
+    - course: MS
+      institution: Huazhong University of Science and Technology
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,10 +40,10 @@ bio: Song Bai, graduated from Tsinghua University and is currently a Distinguish
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:songbai@pku.edu.cn'
+    link: 'mailto:wjzhou@stu.pku.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=BB1kpr0AAAAJ
+    link: https://scholar.google.com/citations?user=gheg_bgAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PI
+  - Students
 ---
 
-Song Bai, graduated from Tsinghua University and is currently a Distinguished Research Fellow at the Department of Energy and Resource Engineering, College of Engineering, Peking University
+My research interest focuses on electron and phonon transport in novel materials.
