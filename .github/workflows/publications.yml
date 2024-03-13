@@ -35,6 +35,8 @@ jobs:
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
         if: ${{ hashFiles('publications.bib') != '' }}
         run: academic import publications.bib content/publication/ --compact
+      - name: Fix publication
+        run: python fix_publications.py
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
