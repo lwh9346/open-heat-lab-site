@@ -4,6 +4,7 @@ authors:
 - Lanyi Xie
 - Bai Song
 date: '2023-04-28'
+publication: "Physical Review B"
 publishDate: '2024-01-30T07:16:36.391506Z'
 publication_types:
 - article-journal

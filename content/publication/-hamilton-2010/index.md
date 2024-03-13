@@ -5,6 +5,7 @@ authors:
 - ' 吴晶'
 - ' 过增元'
 date: '2010-01-01'
+publication: "物理学报"
 publishDate: '2024-01-30T07:16:36.138546Z'
 publication_types:
 - article-journal

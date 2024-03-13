@@ -9,6 +9,7 @@ authors:
 - Te-Huan Liu
 - Ronggui Yang
 date: '2022-09-12'
+publication: "Applied Physics Letters"
 publishDate: '2024-01-30T07:16:36.369344Z'
 publication_types:
 - article-journal

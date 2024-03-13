@@ -12,6 +12,7 @@ authors:
 - Gang Chen
 - Ni Ni
 date: '2018-06-11'
+publication: "Applied Physics Letters"
 publishDate: '2024-01-30T07:16:36.185717Z'
 publication_types:
 - article-journal

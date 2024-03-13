@@ -5,6 +5,7 @@ authors:
 - Fuwei Yang
 - Bai Song
 date: '2023-01-01'
+publication: "SCIENCE CHINA Physics, Mechanics & Astronomy"
 publishDate: '2024-01-30T07:16:36.406078Z'
 publication_types:
 - article-journal

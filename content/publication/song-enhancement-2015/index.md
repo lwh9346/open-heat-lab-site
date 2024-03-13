@@ -14,6 +14,7 @@ authors:
 - Pramod Reddy
 - Edgar Meyhofer
 date: '2015-03-01'
+publication: "Nature Nanotechnology"
 publishDate: '2024-01-30T07:16:36.131784Z'
 publication_types:
 - article-journal

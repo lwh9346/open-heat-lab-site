@@ -6,6 +6,7 @@ authors:
 - Wei Xiao
 - Bai Song
 date: '2024-04-01'
+publication: "International Journal of Heat and Mass Transfer"
 publishDate: '2024-01-30T07:16:36.420058Z'
 publication_types:
 - article-journal

@@ -9,6 +9,7 @@ authors:
 - Pramod Reddy
 - Edgar Meyhofer
 date: '2018-06-13'
+publication: "Nano Letters"
 publishDate: '2024-01-30T07:16:36.291559Z'
 publication_types:
 - article-journal

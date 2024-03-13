@@ -20,6 +20,7 @@ authors:
 - Xing Zhang
 - Bai Song
 date: '2024-01-01'
+publication: "Materials Today Physics"
 publishDate: '2024-01-30T07:16:36.427718Z'
 publication_types:
 - article-journal

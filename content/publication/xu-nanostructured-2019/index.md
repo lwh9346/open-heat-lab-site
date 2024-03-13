@@ -14,6 +14,7 @@ authors:
 - Xiaobo Li
 - Gang Chen
 date: '2019-04-16'
+publication: "Nature Communications"
 publishDate: '2024-01-30T07:16:36.101159Z'
 publication_types:
 - article-journal

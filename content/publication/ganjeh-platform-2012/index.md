@@ -12,6 +12,7 @@ authors:
 - E. Meyhofer
 - P. Reddy
 date: '2012-10-01'
+publication: "Review of Scientific Instruments"
 publishDate: '2024-01-30T07:16:36.171944Z'
 publication_types:
 - article-journal

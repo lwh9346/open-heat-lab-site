@@ -5,6 +5,7 @@ authors:
 - Qun Chen
 - Bai Song
 date: '2022-03-01'
+publication: "Materials Today Physics"
 publishDate: '2024-01-30T07:16:36.347506Z'
 publication_types:
 - article-journal

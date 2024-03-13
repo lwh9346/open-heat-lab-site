@@ -7,6 +7,7 @@ authors:
 - Yi Huang
 - Gang Chen
 date: '2017-11-01'
+publication: "Optics & Photonics News"
 publishDate: '2024-01-30T07:16:36.179459Z'
 publication_types:
 - article-journal

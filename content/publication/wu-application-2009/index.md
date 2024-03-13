@@ -5,6 +5,7 @@ authors:
 - Zengyuan Guo
 - Bai Song
 date: '2009-12-01'
+publication: "Tsinghua Science & Technology"
 publishDate: '2024-01-30T07:16:36.144819Z'
 publication_types:
 - article-journal

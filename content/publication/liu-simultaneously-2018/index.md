@@ -11,6 +11,7 @@ authors:
 - Mingda Li
 - Gang Chen
 date: '2018-08-27'
+publication: "Physical Review B"
 publishDate: '2024-01-30T07:16:36.284241Z'
 publication_types:
 - article-journal

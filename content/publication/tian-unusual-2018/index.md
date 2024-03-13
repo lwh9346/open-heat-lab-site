@@ -29,6 +29,7 @@ authors:
 - Gang Chen
 - Zhifeng Ren
 date: '2018-08-10'
+publication: "Science"
 publishDate: '2024-01-30T07:16:36.237415Z'
 publication_types:
 - article-journal

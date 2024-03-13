@@ -10,6 +10,7 @@ authors:
 - Bai Song
 - Te-Huan Liu
 date: '2024-02-01'
+publication: "Surfaces and Interfaces"
 publishDate: '2024-01-30T07:16:36.442726Z'
 publication_types:
 - article-journal

@@ -7,6 +7,7 @@ authors:
 - Pramod Reddy
 - Bai Song
 date: '2023-08-16'
+publication: "ACS Photonics"
 publishDate: '2024-01-30T07:16:36.412980Z'
 publication_types:
 - article-journal

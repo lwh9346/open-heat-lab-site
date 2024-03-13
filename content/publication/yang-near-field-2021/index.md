@@ -5,6 +5,7 @@ authors:
 - Fuwei Yang
 - Bai Song
 date: '2021-06-09'
+publication: "Physical Review B"
 publishDate: '2024-01-30T07:16:36.298539Z'
 publication_types:
 - article-journal

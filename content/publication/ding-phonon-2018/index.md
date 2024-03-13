@@ -9,6 +9,7 @@ authors:
 - Te-Huan Liu
 - Gang Chen
 date: '2018-01-10'
+publication: "Nano Letters"
 publishDate: '2024-01-30T07:16:36.253500Z'
 publication_types:
 - article-journal

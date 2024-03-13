@@ -17,6 +17,7 @@ authors:
 - Ching-Wu Chu
 - Zhifeng Ren
 date: '2018-01-15'
+publication: "Applied Physics Letters"
 publishDate: '2024-01-30T07:16:36.276259Z'
 publication_types:
 - article-journal

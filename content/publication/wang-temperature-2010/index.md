@@ -6,6 +6,7 @@ authors:
 - Ming Gu
 - Xing Zhang
 date: '2010-11-01'
+publication: "International Journal of Heat and Mass Transfer"
 publishDate: '2024-01-30T07:16:36.151650Z'
 publication_types:
 - article-journal

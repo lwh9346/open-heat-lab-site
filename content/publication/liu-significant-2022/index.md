@@ -9,6 +9,7 @@ authors:
 - Bai Song
 - Ronggui Yang
 date: '2022-01-01'
+publication: "Materials Today Physics"
 publishDate: '2024-01-30T07:16:36.326627Z'
 publication_types:
 - article-journal

@@ -5,6 +5,7 @@ authors:
 - Fuwei Yang
 - Bai Song
 date: '2022-05-01'
+publication: "Materials Today Physics"
 publishDate: '2024-01-30T07:16:36.354692Z'
 publication_types:
 - article-journal

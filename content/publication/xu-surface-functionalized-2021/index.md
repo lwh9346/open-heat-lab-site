@@ -4,6 +4,7 @@ authors:
 - Shenzhen Xu
 - Bai Song
 date: '2021-10-07'
+publication: "The Journal of Physical Chemistry C"
 publishDate: '2024-01-30T07:16:36.312374Z'
 publication_types:
 - article-journal

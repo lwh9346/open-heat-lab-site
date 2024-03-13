@@ -5,6 +5,7 @@ authors:
 - A. A. Maznev
 - Bai Song
 date: '2022-03-21'
+publication: "Physical Review Letters"
 publishDate: '2024-01-30T07:16:36.341319Z'
 publication_types:
 - article-journal

@@ -4,6 +4,7 @@ authors:
 - Lanyi Xie
 - Bai Song
 date: '2023-11-01'
+publication: "International Journal of Heat and Mass Transfer"
 publishDate: '2024-01-30T07:16:36.398194Z'
 publication_types:
 - article-journal

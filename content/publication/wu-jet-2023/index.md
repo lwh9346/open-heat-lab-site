@@ -11,6 +11,7 @@ authors:
 - Wei Wang
 - Bai Song
 date: '2023-06-01'
+publication: "International Journal of Heat and Mass Transfer"
 publishDate: '2024-01-30T07:16:36.376348Z'
 publication_types:
 - article-journal

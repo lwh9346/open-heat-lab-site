@@ -6,6 +6,7 @@ authors:
 - Edgar Meyhofer
 - Pramod Reddy
 date: '2015-04-21'
+publication: "AIP Advances"
 publishDate: '2024-01-30T07:16:36.122305Z'
 publication_types:
 - article-journal

@@ -15,6 +15,7 @@ authors:
 - Edgar Meyhofer
 - Pramod Reddy
 date: '2015-12-01'
+publication: "Nature"
 publishDate: '2024-01-30T07:16:36.208627Z'
 publication_types:
 - article-journal

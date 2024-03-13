@@ -6,6 +6,7 @@ authors:
 - Qun Chen
 - Bai Song
 date: '2021-12-08'
+publication: "Physical Review Applied"
 publishDate: '2024-01-30T07:16:36.319442Z'
 publication_types:
 - article-journal

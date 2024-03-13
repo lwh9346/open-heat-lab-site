@@ -11,6 +11,7 @@ authors:
 - Te-Huan Liu
 - Ronggui Yang
 date: '2024-01-01'
+publication: "Cell Reports Physical Science"
 publishDate: '2024-01-30T07:16:36.435400Z'
 publication_types:
 - article-journal

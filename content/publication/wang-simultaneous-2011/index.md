@@ -7,6 +7,7 @@ authors:
 - Yang Song
 - Gangping Wu
 date: '2011-04-08'
+publication: "International Journal of Thermophysics"
 publishDate: '2024-01-30T07:16:36.230324Z'
 publication_types:
 - article-journal

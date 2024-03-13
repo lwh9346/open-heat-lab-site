@@ -4,6 +4,7 @@ authors:
 - Bai Song
 - Zengyuan Guo
 date: '2011-10-01'
+publication: "International Journal of Heat and Mass Transfer"
 publishDate: '2024-01-30T07:16:36.245966Z'
 publication_types:
 - article-journal

@@ -20,6 +20,7 @@ authors:
 - A. Gossard
 - G. Chen
 date: '2018-12-01'
+publication: "Science Advances"
 publishDate: '2024-01-30T07:16:36.200758Z'
 publication_types:
 - article-journal

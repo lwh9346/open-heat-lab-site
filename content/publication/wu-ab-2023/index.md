@@ -10,6 +10,7 @@ authors:
 - Te-Huan Liu
 - Ronggui Yang
 date: '2023-07-01'
+publication: "International Journal of Heat and Mass Transfer"
 publishDate: '2024-01-30T07:16:36.383930Z'
 publication_types:
 - article-journal

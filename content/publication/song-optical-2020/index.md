@@ -11,6 +11,7 @@ authors:
 - Emmanouil Kioupakis
 - Gang Chen
 date: '2020-04-06'
+publication: "Applied Physics Letters"
 publishDate: '2024-01-30T07:16:36.090909Z'
 publication_types:
 - article-journal

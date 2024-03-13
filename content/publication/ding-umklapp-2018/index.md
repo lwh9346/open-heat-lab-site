@@ -8,6 +8,7 @@ authors:
 - Te-Huan Liu
 - Gang Chen
 date: '2018-11-13'
+publication: "Physical Review B"
 publishDate: '2024-01-30T07:16:36.221185Z'
 publication_types:
 - article-journal
