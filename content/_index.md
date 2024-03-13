@@ -5,20 +5,35 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+
+  - block: slider
     content:
-      title: |
-        Open Heat Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        Desc...
-  
+      slides:
+        - title: Open Heat Lab
+          content: Truth knows no bounds; openness signifies the fusion and sharing of innovation. Science is an endless journey; openness also means breaking conventions and expanding limits.
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coders.jpg
+              filters:
+                brightness: 1
+            position: left
+            color: '#666'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 5000
+
   - block: collection
     content:
-      title: Latest News
+      title: Latest Publications
       subtitle:
       text:
       count: 5
@@ -30,9 +45,9 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: publication
     design:
-      view: card
+      view: citation
       columns: '1'
   
   - block: markdown
@@ -52,20 +67,16 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 5 Yiheyuan Road
+        city: Beijing
+        region: Haidian
+        postcode: '100871'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '39.9964'
+        longitude: '116.3250'
+      directions: Xin'ao Engineering Building Room 253
       autolink: true
     design:
       columns: '1'
