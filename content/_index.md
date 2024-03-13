@@ -9,8 +9,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: Open Heat Lab
-          content: Truth knows no bounds; openness signifies the fusion and sharing of innovation. Science is an endless journey; openness also means breaking conventions and expanding limits.
+        - title: 
+          content: 
           align: left
           background:
             image:
@@ -19,6 +19,7 @@ sections:
               filename: team.jpg
               filters:
                 brightness: 1
+              fit: contain
             position: left
             color: '#666'
     design:
