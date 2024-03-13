@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Ph.D. Students
 ---
 
 I am a PhD candidate in Professor Song's group. I received my bachelor's degree in Hydraulic Engineering from Wuhan University in 2020. My research interests include fluctuation-induced phenomena such as near-field radiative heat transfer and the Casimir force.

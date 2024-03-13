@@ -13,7 +13,8 @@ sections:
       user_groups:
           - PI
           - Postdocs
-          - Students
+          - Ph.D. Students
+          - Undergraduate Students
           - Alumni
       sort_by: Params.start_year
       sort_ascending: false

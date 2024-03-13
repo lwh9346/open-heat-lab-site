@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Ph.D. Students
 ---
 
 Fuwei's research interests lie in mechanical superlubricity and thermal transport across the interface at micro- and nanoscale. 

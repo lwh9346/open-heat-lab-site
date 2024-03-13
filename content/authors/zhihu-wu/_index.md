@@ -17,7 +17,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Ph.D. Students
 ---
 
 Zhihu, Wu received the M. S. Degree in science in armament science and technology from Beijing Institute of Technology, Beijing, China, in 2017. He is currently working toward the ph.D. degree in mechanics with Peking University, Beijing, China.  His research interests include microsystem integration and thermal management technology,  advanced packaging, and microfluidics.
