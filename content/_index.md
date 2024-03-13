@@ -19,7 +19,7 @@ sections:
               filename: team.jpg
               filters:
                 brightness: 1
-              fit: contain
+              fit: cover
             position: left
             color: '#666'
     design:
