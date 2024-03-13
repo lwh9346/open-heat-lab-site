@@ -75,9 +75,9 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.9964'
-        longitude: '116.3250'
-      directions: Xin'ao Engineering Building Room 253
+        latitude: '39.99318'
+        longitude: '116.31146'
+      directions: "Room 253, Xin'ao Engineering Building"
       autolink: true
     design:
       columns: '1'
