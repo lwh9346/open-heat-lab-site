@@ -2,6 +2,9 @@
 # Display name
 title: Wujuan Yan
 
+# For sorting
+start_year: 20190
+
 # Full name (for SEO)
 first_name: Wujuan
 last_name: Yan

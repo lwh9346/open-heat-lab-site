@@ -16,7 +16,7 @@ sections:
           - Students
           - Alumni
       sort_by: Params.start_year
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true
