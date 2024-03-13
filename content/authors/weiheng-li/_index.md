@@ -2,6 +2,9 @@
 # Display name
 title: Weiheng Li
 
+# For sorting
+start_year: 20240
+
 # Full name (for SEO)
 first_name: Weiheng
 last_name: Li

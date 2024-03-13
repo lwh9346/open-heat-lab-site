@@ -2,6 +2,9 @@
 # Display name
 title: Haiyu He
 
+# For sorting
+start_year: 20190
+
 # Full name (for SEO)
 first_name: Haiyu
 last_name: He

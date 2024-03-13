@@ -2,6 +2,9 @@
 # Display name
 title: Haichang Guo
 
+# For sorting
+start_year: 20221
+
 # Full name (for SEO)
 first_name: Haichang
 last_name: Guo

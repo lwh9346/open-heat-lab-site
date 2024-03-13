@@ -2,6 +2,9 @@
 # Display name
 title: Fuwei Yang
 
+# For sorting
+start_year: 20220
+
 # Full name (for SEO)
 first_name: Fuwei
 last_name: Yang

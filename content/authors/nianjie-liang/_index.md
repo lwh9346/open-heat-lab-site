@@ -2,6 +2,9 @@
 # Display name
 title: Nianjie Liang
 
+# For sorting
+start_year: 20220
+
 # Full name (for SEO)
 first_name: Nianjie
 last_name: Liang

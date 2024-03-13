@@ -2,6 +2,9 @@
 # Display name
 title: Lanyi Xie
 
+# For sorting
+start_year: 20200
+
 # Full name (for SEO)
 first_name: Lanyi
 last_name: Xie

@@ -2,6 +2,9 @@
 # Display name
 title: Bai Song
 
+# For sorting
+start_year: 00000
+
 # Full name (for SEO)
 first_name: Bai
 last_name: Song

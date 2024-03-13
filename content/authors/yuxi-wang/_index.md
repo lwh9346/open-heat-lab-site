@@ -2,6 +2,9 @@
 # Display name
 title: Yuxi Wang
 
+# For sorting
+start_year: 20210
+
 # Full name (for SEO)
 first_name: Yuxi
 last_name: Wang
@@ -26,12 +29,12 @@ bio: Yuxi Wang is a postdoctoral researcher in College of Engineering at Peking 
 
 education:
   courses:
-    - course: Ph.D., Materials Science and Engineering
-      institution: Nanjing University
-      year: 2021
     - course: B.S., Materials Physics
       institution: Nanjing University
       year: 2016
+    - course: Ph.D., Materials Science and Engineering
+      institution: Nanjing University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
