@@ -19,9 +19,9 @@ sections:
               filename: team.jpg
               filters:
                 brightness: 1
-              fit: cover
+              fit: contain
             position: left
-            color: '#666'
+            color: '#fff'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
