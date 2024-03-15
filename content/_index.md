@@ -19,7 +19,6 @@ sections:
               filename: team.jpg
               filters:
                 brightness: 1
-              size: contain
             position: left
             color: '#fff'
     design:
