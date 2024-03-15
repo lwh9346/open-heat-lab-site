@@ -19,6 +19,9 @@ main:
   - name: Education
     url: education
     weight: 50
+  - name: Events
+    url: event
+    weight: 55
   - name: 中文简介
     url: zh
     weight: 60
