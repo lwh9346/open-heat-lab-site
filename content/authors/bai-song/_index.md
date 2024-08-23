@@ -17,7 +17,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PI
+role: Principal Investigators
 
 # Organizations/Affiliations
 organizations:
